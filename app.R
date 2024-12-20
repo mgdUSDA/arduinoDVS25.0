@@ -1424,10 +1424,10 @@ server <- function(input, output, session) {
   )
   
   
-  # cat("\n > save plot data to file:\n")
-  # cat("   > ")
-  # #print(plotSensorIDList())
-  # cat("\n")
+  cat("\n > save plot data to file:\n")
+  cat("   > ")
+  #print(plotSensorIDList())
+  cat("\n")
 
   
 } # End of server
